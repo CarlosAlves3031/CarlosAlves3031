@@ -2,7 +2,7 @@
 
 - 📚 Computer Science Student at UFRRJ (Set 2021 - Present)
 
-- 🌱 I’m currently learning Python, Golang and JavaScript
+- 🌱 I’m currently learning Python and JavaScript
 - 📩 Contact: alvesgt3031@ufrrj.br
 - 🎆 I’m also interested in Data Science, Machine Learning e Web development
 
